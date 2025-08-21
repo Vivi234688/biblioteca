@@ -1,4 +1,4 @@
-# Evidencia GA7-220501096-AA5-EV01
+ Evidencia GA7-220501096-AA5-EV01
 
  Descripción
 Este proyecto implementa un servicio web con Flask que permite:
@@ -9,7 +9,7 @@ Cumple con la evidencia solicitada en el componente Construcción de API.
 
 ---
 
-##  Estructura del proyecto
+Estructura del proyecto
 ```
 NOMBRE_APELLIDO_AA5_EV01/
 │── app.py              # Código principal
@@ -26,7 +26,7 @@ NOMBRE_APELLIDO_AA5_EV01/
 
 ---
 
-## Instalación y ejecución
+ Instalación y ejecución
 1. Clonar el repositorio:
    ```bash
    git clone <URL_REPOSITORIO>
@@ -45,9 +45,9 @@ NOMBRE_APELLIDO_AA5_EV01/
 
 ---
 
-## Endpoints
+ Endpoints
 
-### Registro
+ Registro
 ```
 POST /registro
 {
@@ -56,7 +56,7 @@ POST /registro
 }
 ```
 
-### Login
+ Login
 ```
 POST /login
 {
@@ -67,7 +67,7 @@ POST /login
 
 ---
 
-##  Pruebas automáticas
+  Pruebas automáticas
 Ejecutar pruebas con:
 ```bash
 pytest
