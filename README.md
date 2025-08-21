@@ -9,7 +9,7 @@ Cumple con la evidencia solicitada en el componente Construcción de API.
 
 ---
 
-## 📂 Estructura del proyecto
+##  Estructura del proyecto
 ```
 NOMBRE_APELLIDO_AA5_EV01/
 │── app.py              # Código principal
