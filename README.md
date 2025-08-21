@@ -1,11 +1,11 @@
 # Evidencia GA7-220501096-AA5-EV01
 
-## 🚀 Descripción
-Este proyecto implementa un **servicio web con Flask** que permite:
+ Descripción
+Este proyecto implementa un servicio web con Flask que permite:
 - Registrar usuarios.
 - Iniciar sesión con verificación de credenciales.
 
-Cumple con la evidencia solicitada en el componente **Construcción de API**.
+Cumple con la evidencia solicitada en el componente Construcción de API.
 
 ---
 
@@ -26,7 +26,7 @@ NOMBRE_APELLIDO_AA5_EV01/
 
 ---
 
-## ▶️ Instalación y ejecución
+## Instalación y ejecución
 1. Clonar el repositorio:
    ```bash
    git clone <URL_REPOSITORIO>
@@ -45,7 +45,7 @@ NOMBRE_APELLIDO_AA5_EV01/
 
 ---
 
-## 📌 Endpoints
+## Endpoints
 
 ### Registro
 ```
@@ -67,7 +67,7 @@ POST /login
 
 ---
 
-## 🔧 Pruebas automáticas
+##  Pruebas automáticas
 Ejecutar pruebas con:
 ```bash
 pytest
